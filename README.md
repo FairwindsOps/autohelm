@@ -1,3 +1,4 @@
+# autohelm is deprecated! Please use the new `reckoner` package at https://github.com/reactiveops/reckoner
 
 # autohelm [![CircleCI](https://circleci.com/gh/reactiveops/autohelm.svg?style=svg)](https://circleci.com/gh/reactiveops/autohelm)
 

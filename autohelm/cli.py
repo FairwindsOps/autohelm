@@ -31,6 +31,7 @@ from meta import __version__
 @click.pass_context
 def cli(ctx, log_level, *args, **kwargs):
     coloredlogs.install(level=log_level)
+    logging.warn("Autohelm is deprecated. Please use the new package: Reckoner (https://github.com/reactiveops/reckoner)")
     pass
 
 
